@@ -1,5 +1,6 @@
 # VSRG Converter
 Converts charts between several VSRGs
+Language: Python
 
 ## Planned
 * osu!mania
